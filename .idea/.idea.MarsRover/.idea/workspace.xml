@@ -5,7 +5,30 @@
     <projectFile>MarsRover/MarsRover.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec25a413-898b-413c-8e13-15962281662f" name="Default Changelist" comment="initial commit" />
+    <list default="true" id="ec25a413-898b-413c-8e13-15962281662f" name="Default Changelist" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MarsRover/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MarsRover/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsRoverTest/RoverExceptionTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MarsRoverTest/RoverExceptionTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_mac/laf.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeLens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codestyles/Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/colors.scheme.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDrivers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/debugger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/editor.codeinsight.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filetypes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/find.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/github.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ide.general.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightEdit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/markdown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui.lnf.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/updates.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vsts_settings.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +74,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected=".NET Project.ConsoleApp1">
@@ -101,7 +124,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608925258593</updated>
       <workItem from="1608925260196" duration="1365000" />
-      <workItem from="1609068084658" duration="25371000" />
+      <workItem from="1609068084658" duration="25810000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1609170079250</created>
@@ -110,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609170079251</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1609170349380</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609170349380</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,15 +261,15 @@
     </state>
     <state x="880" y="441" key="Rider.ProjectTemplateDialog.Size/-1920.236.1920.1057/0.23.2560.1359@0.23.2560.1359" timestamp="1608969712512" />
     <state x="616" y="343" key="Rider.ProjectTemplateDialog.Size/0.23.1792.1039@0.23.1792.1039" timestamp="1609093185853" />
-    <state x="297" y="-896" key="SettingsEditor" timestamp="1609170297696">
+    <state x="297" y="-896" key="SettingsEditor" timestamp="1609170736798">
       <screen x="-128" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="297" y="-896" key="SettingsEditor/-128.-1057.1920.1057/0.23.1792.1039@-128.-1057.1920.1057" timestamp="1609170297696" />
+    <state x="297" y="-896" key="SettingsEditor/-128.-1057.1920.1057/0.23.1792.1039@-128.-1057.1920.1057" timestamp="1609170736798" />
     <state x="397" y="181" key="SettingsEditor/0.23.1792.1039@0.23.1792.1039" timestamp="1609077485267" />
-    <state x="432" y="-789" key="Vcs.Push.Dialog.v2" timestamp="1609170122622">
+    <state x="432" y="-789" key="Vcs.Push.Dialog.v2" timestamp="1609170725496">
       <screen x="-128" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="432" y="-789" key="Vcs.Push.Dialog.v2/-128.-1057.1920.1057/0.23.1792.1039@-128.-1057.1920.1057" timestamp="1609170122622" />
+    <state x="432" y="-789" key="Vcs.Push.Dialog.v2/-128.-1057.1920.1057/0.23.1792.1039@-128.-1057.1920.1057" timestamp="1609170725496" />
     <state width="896" height="519" key="XDebugger.FullValuePopup" timestamp="1609086893991">
       <screen x="0" y="23" width="1792" height="1039" />
     </state>
@@ -252,6 +282,10 @@
       <screen x="-128" y="-1057" width="1920" height="1057" />
     </state>
     <state x="654" y="-628" key="git4idea.remote.GitConfigureRemotesDialog/-128.-1057.1920.1057/0.23.1792.1039@-128.-1057.1920.1057" timestamp="1609170147887" />
+    <state x="498" y="-627" key="git4idea.ui.GitResetDialog" timestamp="1609170490110">
+      <screen x="-128" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="498" y="-627" key="git4idea.ui.GitResetDialog/-128.-1057.1920.1057/0.23.1792.1039@-128.-1057.1920.1057" timestamp="1609170490110" />
     <state x="495" y="-824" width="672" height="678" key="search.everywhere.popup" timestamp="1609163796141">
       <screen x="-128" y="-1057" width="1920" height="1057" />
     </state>
