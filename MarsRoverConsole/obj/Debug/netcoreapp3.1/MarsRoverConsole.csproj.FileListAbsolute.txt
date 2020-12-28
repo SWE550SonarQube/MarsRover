@@ -1,0 +1,12 @@
+/Users/sabri/Desktop/Programming/Projects/ASP.NET CORE/Mars Rover/MarsRover/MarsRoverConsole/bin/Debug/netcoreapp3.1/MarsRoverConsole.deps.json
+/Users/sabri/Desktop/Programming/Projects/ASP.NET CORE/Mars Rover/MarsRover/MarsRoverConsole/bin/Debug/netcoreapp3.1/MarsRoverConsole.runtimeconfig.json
+/Users/sabri/Desktop/Programming/Projects/ASP.NET CORE/Mars Rover/MarsRover/MarsRoverConsole/bin/Debug/netcoreapp3.1/MarsRoverConsole.runtimeconfig.dev.json
+/Users/sabri/Desktop/Programming/Projects/ASP.NET CORE/Mars Rover/MarsRover/MarsRoverConsole/bin/Debug/netcoreapp3.1/MarsRoverConsole.dll
+/Users/sabri/Desktop/Programming/Projects/ASP.NET CORE/Mars Rover/MarsRover/MarsRoverConsole/bin/Debug/netcoreapp3.1/MarsRoverConsole.pdb
+/Users/sabri/Desktop/Programming/Projects/ASP.NET CORE/Mars Rover/MarsRover/MarsRoverConsole/obj/Debug/netcoreapp3.1/MarsRoverConsole.csprojAssemblyReference.cache
+/Users/sabri/Desktop/Programming/Projects/ASP.NET CORE/Mars Rover/MarsRover/MarsRoverConsole/obj/Debug/netcoreapp3.1/MarsRoverConsole.AssemblyInfoInputs.cache
+/Users/sabri/Desktop/Programming/Projects/ASP.NET CORE/Mars Rover/MarsRover/MarsRoverConsole/obj/Debug/netcoreapp3.1/MarsRoverConsole.AssemblyInfo.cs
+/Users/sabri/Desktop/Programming/Projects/ASP.NET CORE/Mars Rover/MarsRover/MarsRoverConsole/obj/Debug/netcoreapp3.1/MarsRoverConsole.csproj.CoreCompileInputs.cache
+/Users/sabri/Desktop/Programming/Projects/ASP.NET CORE/Mars Rover/MarsRover/MarsRoverConsole/obj/Debug/netcoreapp3.1/MarsRoverConsole.dll
+/Users/sabri/Desktop/Programming/Projects/ASP.NET CORE/Mars Rover/MarsRover/MarsRoverConsole/obj/Debug/netcoreapp3.1/MarsRoverConsole.pdb
+/Users/sabri/Desktop/Programming/Projects/ASP.NET CORE/Mars Rover/MarsRover/MarsRoverConsole/obj/Debug/netcoreapp3.1/MarsRoverConsole.genruntimeconfig.cache
