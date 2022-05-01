@@ -15,7 +15,7 @@ namespace MarsRoverConsole
             {
                 if (value < 0) throw new ArgumentOutOfRangeException(nameof(value));
                 if (value > PlateauLimitX)
-                    throw new ArgumentOutOfRangeException("Out of limit x");
+                    throw new ArgumentOutOfRangeException();
                 _CurrentX = value;
             }
         }
