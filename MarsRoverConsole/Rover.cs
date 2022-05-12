@@ -6,7 +6,11 @@ namespace MarsRoverConsole
     {
         private int PlateauLimitX { get; set; }
         private int PlateauLimitY { get; set; }
+
+        private int ex3;
+
         private int ex;
+
         private int _CurrentX { get; set; }
         private int CurrentX
         {
@@ -15,7 +19,7 @@ namespace MarsRoverConsole
             {
                 if (value < 0) throw new ArgumentOutOfRangeException(nameof(value));
                 if (value > PlateauLimitX)
-                    throw new ArgumentOutOfRangeException("Out of limit x");
+                    throw new ArgumentOutOfRangeException();
                 _CurrentX = value;
             }
         }
