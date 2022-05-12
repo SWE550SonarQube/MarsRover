@@ -16,7 +16,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec25a413-898b-413c-8e13-15962281662f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MarsRover/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MarsRover/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MarsRoverConsole/Rover.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MarsRoverConsole/Rover.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsRoverConsole/bin/Debug/netcoreapp3.1/MarsRoverConsole.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MarsRoverConsole/bin/Debug/netcoreapp3.1/MarsRoverConsole.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsRoverConsole/bin/Debug/netcoreapp3.1/MarsRoverConsole.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MarsRoverConsole/bin/Debug/netcoreapp3.1/MarsRoverConsole.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsRoverConsole/obj/Debug/netcoreapp3.1/MarsRoverConsole.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MarsRoverConsole/obj/Debug/netcoreapp3.1/MarsRoverConsole.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsRoverConsole/obj/Debug/netcoreapp3.1/MarsRoverConsole.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MarsRoverConsole/obj/Debug/netcoreapp3.1/MarsRoverConsole.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsRoverConsole/obj/Debug/netcoreapp3.1/MarsRoverConsole.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MarsRoverConsole/obj/Debug/netcoreapp3.1/MarsRoverConsole.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsRoverConsole/obj/Debug/netcoreapp3.1/MarsRoverConsole.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsRoverConsole/obj/Debug/netcoreapp3.1/MarsRoverConsole.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MarsRoverConsole/obj/Debug/netcoreapp3.1/MarsRoverConsole.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsRoverConsole/obj/Debug/netcoreapp3.1/MarsRoverConsole.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MarsRoverConsole/obj/Debug/netcoreapp3.1/MarsRoverConsole.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsRoverConsole/obj/Debug/netcoreapp3.1/MarsRoverConsole.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MarsRoverConsole/obj/Debug/netcoreapp3.1/MarsRoverConsole.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsRoverConsole/obj/MarsRoverConsole.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MarsRoverConsole/obj/MarsRoverConsole.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsRoverConsole/obj/MarsRoverConsole.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/MarsRoverConsole/obj/MarsRoverConsole.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsRoverConsole/obj/MarsRoverConsole.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/MarsRoverConsole/obj/MarsRoverConsole.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsRoverConsole/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/MarsRoverConsole/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsRoverConsole/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MarsRoverConsole/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsRoverTest/bin/Debug/netcoreapp3.1/MarsRoverConsole.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MarsRoverTest/bin/Debug/netcoreapp3.1/MarsRoverConsole.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsRoverTest/bin/Debug/netcoreapp3.1/MarsRoverConsole.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MarsRoverTest/bin/Debug/netcoreapp3.1/MarsRoverConsole.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsRoverTest/bin/Debug/netcoreapp3.1/MarsRoverTest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MarsRoverTest/bin/Debug/netcoreapp3.1/MarsRoverTest.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsRoverTest/bin/Debug/netcoreapp3.1/MarsRoverTest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MarsRoverTest/bin/Debug/netcoreapp3.1/MarsRoverTest.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsRoverTest/obj/Debug/netcoreapp3.1/MarsRoverTest.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MarsRoverTest/obj/Debug/netcoreapp3.1/MarsRoverTest.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsRoverTest/obj/Debug/netcoreapp3.1/MarsRoverTest.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MarsRoverTest/obj/Debug/netcoreapp3.1/MarsRoverTest.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsRoverTest/obj/Debug/netcoreapp3.1/MarsRoverTest.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MarsRoverTest/obj/Debug/netcoreapp3.1/MarsRoverTest.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsRoverTest/obj/Debug/netcoreapp3.1/MarsRoverTest.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsRoverTest/obj/Debug/netcoreapp3.1/MarsRoverTest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MarsRoverTest/obj/Debug/netcoreapp3.1/MarsRoverTest.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsRoverTest/obj/Debug/netcoreapp3.1/MarsRoverTest.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MarsRoverTest/obj/Debug/netcoreapp3.1/MarsRoverTest.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsRoverTest/obj/Debug/netcoreapp3.1/MarsRoverTest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MarsRoverTest/obj/Debug/netcoreapp3.1/MarsRoverTest.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsRoverTest/obj/MarsRoverTest.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MarsRoverTest/obj/MarsRoverTest.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsRoverTest/obj/MarsRoverTest.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/MarsRoverTest/obj/MarsRoverTest.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsRoverTest/obj/MarsRoverTest.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/MarsRoverTest/obj/MarsRoverTest.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsRoverTest/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/MarsRoverTest/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsRoverTest/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MarsRoverTest/obj/project.nuget.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +60,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/MarsRoverConsole/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/EB067793-5C3F-4219-AEF1-3AB117C20649/35/String.Manipulation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/sabri/Desktop/Programming/Projects/ASP.NET CORE/Mars Rover/MarsRover/MarsRoverConsole/Rover.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -138,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609170755258</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="pr test">
+      <created>1652369632235</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652369632235</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,7 +198,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="pr test" />
+    <option name="LAST_COMMIT_MESSAGE" value="pr test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

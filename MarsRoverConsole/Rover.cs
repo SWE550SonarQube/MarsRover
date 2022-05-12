@@ -6,7 +6,8 @@ namespace MarsRoverConsole
     {
         private int PlateauLimitX { get; set; }
         private int PlateauLimitY { get; set; }
-        private int ex2;
+
+        private int ex3;
         private int _CurrentX { get; set; }
         private int CurrentX
         {
