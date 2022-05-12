@@ -3543,6 +3543,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
             "/Users/sabri/Desktop/Programming/Projects/ASP.NET CORE/Mars Rover/MarsRover/MarsRoverConsole/MarsRoverConsole.csproj": {
               "projectPath": "/Users/sabri/Desktop/Programming/Projects/ASP.NET CORE/Mars Rover/MarsRover/MarsRoverConsole/MarsRoverConsole.csproj"
@@ -3558,6 +3559,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
@@ -3586,12 +3588,22 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/Users/sabri/.dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
       }
     }
   }
