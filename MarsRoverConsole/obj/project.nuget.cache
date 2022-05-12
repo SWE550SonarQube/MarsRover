@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Zub4ilITHcwyk5Gf7XYORzm3ypYoTKRHnrYQwWxEkOlppGU8ZZO2uYV2yWmpIU6aLvxsL/GPVFy7/rtALBKXbg==",
+  "dgSpecHash": "9/odTRXhVxMB1nGAXz3AepKFt1ksGcvhUh+fbwcK79ien6T+xplqKa7KMPRc3oysBpCVN4dWm6EbnXDLnob0sA==",
   "success": true,
   "projectFilePath": "/Users/sabri/Desktop/Programming/Projects/ASP.NET CORE/Mars Rover/MarsRover/MarsRoverConsole/MarsRoverConsole.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/sabri/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/sabri/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/sabri/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.24/microsoft.netcore.app.host.osx-x64.3.1.24.nupkg.sha512"
+  ],
   "logs": []
 }

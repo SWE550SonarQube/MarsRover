@@ -86,7 +86,6 @@
 /Users/sabri/Desktop/Programming/Projects/ASP.NET CORE/Mars Rover/MarsRover/MarsRoverTest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 /Users/sabri/Desktop/Programming/Projects/ASP.NET CORE/Mars Rover/MarsRover/MarsRoverTest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 /Users/sabri/Desktop/Programming/Projects/ASP.NET CORE/Mars Rover/MarsRover/MarsRoverTest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-/Users/sabri/Desktop/Programming/Projects/ASP.NET CORE/Mars Rover/MarsRover/MarsRoverTest/obj/Debug/netcoreapp3.1/MarsRoverTest.csprojAssemblyReference.cache
 /Users/sabri/Desktop/Programming/Projects/ASP.NET CORE/Mars Rover/MarsRover/MarsRoverTest/obj/Debug/netcoreapp3.1/MarsRoverTest.AssemblyInfoInputs.cache
 /Users/sabri/Desktop/Programming/Projects/ASP.NET CORE/Mars Rover/MarsRover/MarsRoverTest/obj/Debug/netcoreapp3.1/MarsRoverTest.AssemblyInfo.cs
 /Users/sabri/Desktop/Programming/Projects/ASP.NET CORE/Mars Rover/MarsRover/MarsRoverTest/obj/Debug/netcoreapp3.1/MarsRoverTest.csproj.CoreCompileInputs.cache
@@ -96,3 +95,9 @@
 /Users/sabri/Desktop/Programming/Projects/ASP.NET CORE/Mars Rover/MarsRover/MarsRoverTest/obj/Debug/netcoreapp3.1/MarsRoverTest.genruntimeconfig.cache
 /Users/sabri/Desktop/Programming/Projects/ASP.NET CORE/Mars Rover/MarsRover/MarsRoverTest/bin/Debug/netcoreapp3.1/MarsRoverConsole.dll
 /Users/sabri/Desktop/Programming/Projects/ASP.NET CORE/Mars Rover/MarsRover/MarsRoverTest/bin/Debug/netcoreapp3.1/MarsRoverConsole.pdb
+/Users/sabri/Desktop/Programming/Projects/ASP.NET CORE/Mars Rover/MarsRover/MarsRoverTest/bin/Debug/netcoreapp3.1/MarsRoverConsole.deps.json
+/Users/sabri/Desktop/Programming/Projects/ASP.NET CORE/Mars Rover/MarsRover/MarsRoverTest/bin/Debug/netcoreapp3.1/MarsRoverConsole.runtimeconfig.json
+/Users/sabri/Desktop/Programming/Projects/ASP.NET CORE/Mars Rover/MarsRover/MarsRoverTest/bin/Debug/netcoreapp3.1/MarsRoverConsole.runtimeconfig.dev.json
+/Users/sabri/Desktop/Programming/Projects/ASP.NET CORE/Mars Rover/MarsRover/MarsRoverTest/bin/Debug/netcoreapp3.1/MarsRoverConsole
+/Users/sabri/Desktop/Programming/Projects/ASP.NET CORE/Mars Rover/MarsRover/MarsRoverTest/obj/Debug/netcoreapp3.1/MarsRoverTest.csproj.AssemblyReference.cache
+/Users/sabri/Desktop/Programming/Projects/ASP.NET CORE/Mars Rover/MarsRover/MarsRoverTest/obj/Debug/netcoreapp3.1/MarsRoverTest.GeneratedMSBuildEditorConfig.editorconfig

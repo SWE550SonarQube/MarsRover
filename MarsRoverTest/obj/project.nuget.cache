@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3MfiWtDK+QBmQ+QXS6NOypJlnKuooqU+a7vHQAs16HfUD1v5f7SbX0/XUiBZNhbdVijt58RWI5vLDRnfQSHNJA==",
+  "dgSpecHash": "W4VPZzKZhFAyg+iiRCbXw661E4YUHuCz17LGnKFa0/5jJtdAAdP1lSt3N5lZmtdpgmBb8EbdI9RuXa7XE+UjiQ==",
   "success": true,
   "projectFilePath": "/Users/sabri/Desktop/Programming/Projects/ASP.NET CORE/Mars Rover/MarsRover/MarsRoverTest/MarsRoverTest.csproj",
   "expectedPackageFiles": [
@@ -53,7 +53,9 @@
     "/Users/sabri/.nuget/packages/xunit.core/2.4.0/xunit.core.2.4.0.nupkg.sha512",
     "/Users/sabri/.nuget/packages/xunit.extensibility.core/2.4.0/xunit.extensibility.core.2.4.0.nupkg.sha512",
     "/Users/sabri/.nuget/packages/xunit.extensibility.execution/2.4.0/xunit.extensibility.execution.2.4.0.nupkg.sha512",
-    "/Users/sabri/.nuget/packages/xunit.runner.visualstudio/2.4.0/xunit.runner.visualstudio.2.4.0.nupkg.sha512"
+    "/Users/sabri/.nuget/packages/xunit.runner.visualstudio/2.4.0/xunit.runner.visualstudio.2.4.0.nupkg.sha512",
+    "/Users/sabri/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/sabri/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
   ],
   "logs": []
 }
